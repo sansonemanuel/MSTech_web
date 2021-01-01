@@ -5,15 +5,15 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: exampleSite/content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
   path: exampleSite/content/search
   label: Search
   create: all
   match: "**/*"
+- type: directory
+  path: exampleSite/content
+  label: Pages
+  create: all
+  match: "*"
 - type: directory
   path: exampleSite/content/contact
   label: Contact
