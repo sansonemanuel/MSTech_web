@@ -78,7 +78,7 @@ disqusShortname = ""
 
 #################### default parameters ################################
 [params]
-logo = "https://res.cloudinary.com/mstech/image/upload/v1609579979/MSTech/Logos/logo_svhae7.png"
+logo = "https://res.cloudinary.com/mstech/image/upload/c_scale,q_100,w_182/v1609579979/MSTech/Logos/logo_svhae7.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
