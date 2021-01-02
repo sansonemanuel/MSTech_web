@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
 languageCode = "en-us"
-title = "Liva | Personal blog template"
+title = "MSTech | Tech, Dev, Lifestyle"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -78,7 +78,7 @@ disqusShortname = ""
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "https://res.cloudinary.com/mstech/image/upload/v1609579979/MSTech/Logos/logo_svhae7.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
