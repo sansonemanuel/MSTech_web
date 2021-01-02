@@ -1,6 +1,6 @@
 enable : true
 gallery:
-  - image : "images/gallery/1.jpg"
+  - image : "https://res.cloudinary.com/mstech/image/upload/v1609587215/MSTech/IMG_1038_qfjqwa.jpg"
   - image : "images/gallery/2.jpg"
   - image : "images/gallery/3.jpg"
   - image : "images/gallery/4.jpg"
