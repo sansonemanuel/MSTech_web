@@ -90,7 +90,7 @@ mobile = "0124857985320"
 email = "demo@email.com"
 location = "Dhaka, Bangladedsh"
 # copyright
-copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved |"
+copyright = "| copyright &copy; 2020 [MSTech](https://MSTech.cloud) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
@@ -104,8 +104,8 @@ copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All 
 ############################ news letter ########################
 [params.newsletter]
 enable = true
-title = "Join Our Newsletter"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+title = "Unisciti Alla Newsletter"
+content = "Resta aggiornato con le principali novità di MSTech. Tranquillo, non ti tartasseremo."
 
 
 # cookies
