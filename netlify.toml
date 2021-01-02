@@ -1,6 +1,6 @@
 [build]
-  publish = "msTech/public"
-  command = "cd msTech && hugo --gc --themesDir ../.."
+  publish = "MSTech/public"
+  command = "cd MSTech && hugo --gc --themesDir ../.."
   
 [build.environment]
   HUGO_VERSION = "0.73.0"
