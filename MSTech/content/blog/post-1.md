@@ -22,4 +22,6 @@ tags:
 type: "featured"
 ---
 
-# Cos'è il 5g e perché si parla di rivoluzione
+## Cosa significa 5G?
+
+Nel campo delle telecomunicazioni e più in particolare della telefonia mobile cellulare si utilizza il termine 5G per indicare tutti gli standard e le tecnologie successive quelle del 4G. La lettera G, infatti, sta  banalmente per **"Generazione" delle tecnologie wireless**.
